@@ -7,3 +7,11 @@ I developed a GUI program in the Ubuntu environment using the OpenCV library and
 
 <br><br>
 ![image (1)](https://github.com/hojak99/OpenCV_GUI_Program/blob/master/image%20(1).PNG)
+
+![image (2)](https://github.com/hojak99/OpenCV_GUI_Program/blob/master/image%20(2).PNG)
+
+![image (3)](https://github.com/hojak99/OpenCV_GUI_Program/blob/master/image%20(3).PNG)
+
+![image (4)](https://github.com/hojak99/OpenCV_GUI_Program/blob/master/image%20(4).PNG)
+
+![image (5)](https://github.com/hojak99/OpenCV_GUI_Program/blob/master/image%20(5).PNG)
